@@ -38,6 +38,7 @@ Naming convention used by security vendors for Threat Actor groups
 
 
 # Microsoft
+Microsoft uses weather elements
 | Nation-State or Category | Name | Source | Last date verified |
 | ------------------------ | ---- | ------| ------------------ |
 | China | Typhoon | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
@@ -61,6 +62,7 @@ Full list of Threat actors -> https://download.microsoft.com/download/4/5/2/4520
 
 
 # Palo Alto
+Palo Alto use constellation names
 | Nation-State or Category | Name | Source | Last date verified |
 | ------------------------ | ---- | ------| ------------------ |
 | Pakistan | Draco | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/ | 2025-01-27 |
@@ -94,6 +96,7 @@ How Palo Alto Unit 42 Defines and Tracks Threat Adversaries --> https://unit42.p
 
 
 # Secureworks
+Secureworks uses elements names
 | Nation-State or Category | Name | Source | Last date verified |
 | ------------------------ | ---- | ------| ------------------ |
 | China | Bronze | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
