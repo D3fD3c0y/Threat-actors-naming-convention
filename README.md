@@ -1,6 +1,17 @@
 # Threat-actors-naming-convention
 Naming convention used by security vendors for Threat Actor groups
 
+# Table of content
+- [CrowdStrike](#CrowdStrike)
+- [Microsoft](#Microsoft)
+- [Palo Alto](#Palo-Alto)
+- [Mandiant/Google Threat Intelligence](#Mandiant/Google-Threat-Intelligence)
+- [Secureworks](#Secureworks)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 # CrowdStrike
 | Nation-State or Category | Name | Source | Last date verified |
@@ -20,7 +31,10 @@ Naming convention used by security vendors for Threat Actor groups
 | SYRIA | HAWK | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
 | TURKEY | WOLF | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
 | VIETNAM | BUFFALO | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 # Microsoft
@@ -40,7 +54,10 @@ Naming convention used by security vendors for Threat Actor groups
 | Vietnam | Cyclone | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
 
 Full list of Threat actors -> https://download.microsoft.com/download/4/5/2/45208247-c1e9-432d-a9a2-1554d81074d9/Microsoft-threat-actor-list.xlsx
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 # Palo Alto
@@ -57,7 +74,10 @@ Full list of Threat actors -> https://download.microsoft.com/download/4/5/2/4520
 | Business Email Compromise | Orion | https://unit42.paloaltonetworks.com/unit-42-threat-group-naming-update/  | 2025-01-27 |
 
 How Palo Alto Unit 42 Defines and Tracks Threat Adversaries --> https://unit42.paloaltonetworks.com/from-activity-to-formal-naming/
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 # Mandiant/Google Threat Intelligence
@@ -67,7 +87,10 @@ How Palo Alto Unit 42 Defines and Tracks Threat Adversaries --> https://unit42.p
 | Combination of Cluster wihtout being a defined group | TEMP | https://cloud.google.com/blog/topics/threat-intelligence/how-mandiant-tracks-uncategorized-threat-actors | 2025-01-30 |
 | Financially motivated | FIN | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
 | Nation-State | APT | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 # Secureworks
@@ -85,3 +108,7 @@ How Palo Alto Unit 42 Defines and Tracks Threat Adversaries --> https://unit42.p
 | South Korea | Tungsten | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
 | USA | Platinum | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
 | Vietnam | Tin | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
