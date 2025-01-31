@@ -3,48 +3,85 @@ Naming convention used by security vendors for Threat Actor groups
 
 
 # CrowdStrike
-| Name | Nation-State or Category | Source | Last date verified |
-| ---- | ------------------------ | ------| ------------------ |
-| BEAR | RUSSIA | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| BUFFALO | VIETNAM | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| CHOLLIMA | DPRK (NORTH KOREA) | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| CRANE | ROK (REPUBLIC OF KOREA) | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| HAWK | SYRIA | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| JACKAL | HACKTIVIST | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| KITTEN | IRAN | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| LEOPARD | PAKISTAN | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| LYNX | GEORGIA | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| OCELOT | COLOMBIA | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| PANDA | PEOPLE’S REPUBLIC OF CHINA | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| SPHINX | EGYPT | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| SPIDER | ECRIME | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| TIGER | INDIA | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
-| WOLF | TURKEY | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| Nation-State or Category | Name | Source | Last date verified |
+| ------------------------ | ---- | ------| ------------------ |
+| COLOMBIA | OCELOT | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| DPRK (NORTH KOREA) | CHOLLIMA | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| ECRIME | SPIDER | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| EGYPT | SPHINX | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| GEORGIA | LYNX | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| HACKTIVIST | JACKAL | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| INDIA | TIGER | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| IRAN | KITTEN | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| PAKISTAN | LEOPARD | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| PEOPLE’S REPUBLIC OF CHINA | PANDA | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| ROK (REPUBLIC OF KOREA) | CRANE | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| RUSSIA | BEAR | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| SYRIA | HAWK | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| TURKEY | WOLF | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+| VIETNAM | BUFFALO | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
 
 
 
 # Microsoft
-| Name | Nation-State or Category | Source | Last date verified |
-| ---- | ------------------------ | ------| ------------------ |
-| Blizzard | Russia | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Cyclone | Vietnam | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Dust | Turkey | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Flood | Influence operations | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Hail | South Korea | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Rain | Lebanon | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Sandstorm | Iran | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Sleet	North | Korea | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Storm | Groups in development | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Tempest | Financially motivated | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Tsunami | PSOAs (Private sector offensive actors) | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
-| Typhoon | China | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| Nation-State or Category | Name | Source | Last date verified |
+| ------------------------ | ---- | ------| ------------------ |
+| China | Typhoon | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| Financially motivated | Tempest | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| Groups in development | Storm | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| Influence operations | Flood | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| Iran | Sandstorm | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| Lebanon | Rain | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| NorthKorea | Sleet | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| PSOAs (Private sector offensive actors) | Tsunami | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| Russia | Blizzard | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| South Korea | Hail | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| Turkey | Dust | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
+| Vietnam | Cyclone | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming | 2025-01-27 |
 
 Full list of Threat actors -> https://download.microsoft.com/download/4/5/2/45208247-c1e9-432d-a9a2-1554d81074d9/Microsoft-threat-actor-list.xlsx
 
 
 
 # Palo Alto
-| Name | Nation-State or Category | Source | Last date verified |
-| ---- | ------------------------ | ------| ------------------ |
+| Nation-State or Category | Name | Source | Last date verified |
+| ------------------------ | ---- | ------| ------------------ |
+| Pakistan | Draco | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/ | 2025-01-27 |
+| Belarus | Lynx | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/ | 2025-01-27 |
+| North Korea | Pisces | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/  | 2025-01-27 |
+| Iran | Serpens | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/  | 2025-01-27 |
+| China | Taurus | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/  | 2025-01-27 |
+| Russia | Ursa | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/  | 2025-01-27 |
+| Cybercrime | Libra | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/  | 2025-01-27 |
+| Hacktivism | Virgo | https://unit42.paloaltonetworks.com/unit-42-threat-group-naming-update/  | 2025-01-27 |
+| Business Email Compromise | Orion | https://unit42.paloaltonetworks.com/unit-42-threat-group-naming-update/  | 2025-01-27 |
 
 How Palo Alto Unit 42 Defines and Tracks Threat Adversaries --> https://unit42.paloaltonetworks.com/from-activity-to-formal-naming/
+
+
+
+# Mandiant/Google Threat Intelligence
+| Nation-State or Category | Name | Source | Last date verified |
+| ------------------------ | ---- | ------| ------------------ |
+| Cluster of cyber intrusion activity | UNC | https://cloud.google.com/blog/topics/threat-intelligence/how-mandiant-tracks-uncategorized-threat-actors | 2025-01-30 |
+| Combination of Cluster wihtout being a defined group | TEMP | https://cloud.google.com/blog/topics/threat-intelligence/how-mandiant-tracks-uncategorized-threat-actors | 2025-01-30 |
+| Financially motivated | FIN | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
+| Nation-State | APT | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
+
+
+
+# Secureworks
+| Nation-State or Category | Name | Source | Last date verified |
+| ------------------------ | ---- | ------| ------------------ |
+| China | Bronze | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| Cybercrime | Gold | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| Emerging Threats | Moonscape | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| India | Zinc | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| Iran | Cobalt | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| North Korea | Nickel | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| Pakistan | Copper | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| Palestine | Aluminum | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| Russia | Iron | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| South Korea | Tungsten | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| USA | Platinum | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| Vietnam | Tin | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
