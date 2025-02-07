@@ -3,9 +3,9 @@ Naming convention used by security vendors for Threat Actor groups
 
 # Table of content
 - [CrowdStrike](#CrowdStrike)
+- [Mandiant/Google Threat Intelligence](#Mandiant/Google-Threat-Intelligence)
 - [Microsoft](#Microsoft)
 - [Palo Alto](#Palo-Alto)
-- [Mandiant/Google Threat Intelligence](#Mandiant/Google-Threat-Intelligence)
 - [Secureworks](#Secureworks)
 - [Trend Micro](#Trend-Micro)
 <p>&nbsp;</p>
@@ -32,6 +32,19 @@ Naming convention used by security vendors for Threat Actor groups
 | SYRIA | HAWK | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
 | TURKEY | WOLF | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
 | VIETNAM | BUFFALO | https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf | 2025-01-27 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+# Mandiant/Google Threat Intelligence
+| Nation-State or Category | Name | Source | Last date verified |
+| ------------------------ | ---- | ------| ------------------ |
+| Cluster of cyber intrusion activity | UNC | https://cloud.google.com/blog/topics/threat-intelligence/how-mandiant-tracks-uncategorized-threat-actors | 2025-01-30 |
+| Combination of Cluster wihtout being a defined group | TEMP | https://cloud.google.com/blog/topics/threat-intelligence/how-mandiant-tracks-uncategorized-threat-actors | 2025-01-30 |
+| Financially motivated | FIN | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
+| Nation-State | APT | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -83,19 +96,6 @@ How Palo Alto Unit 42 Defines and Tracks Threat Adversaries --> https://unit42.p
 <p>&nbsp;</p>
 
 
-# Mandiant/Google Threat Intelligence
-| Nation-State or Category | Name | Source | Last date verified |
-| ------------------------ | ---- | ------| ------------------ |
-| Cluster of cyber intrusion activity | UNC | https://cloud.google.com/blog/topics/threat-intelligence/how-mandiant-tracks-uncategorized-threat-actors | 2025-01-30 |
-| Combination of Cluster wihtout being a defined group | TEMP | https://cloud.google.com/blog/topics/threat-intelligence/how-mandiant-tracks-uncategorized-threat-actors | 2025-01-30 |
-| Financially motivated | FIN | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
-| Nation-State | APT | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
 # Secureworks
 Secureworks uses elements names
 | Nation-State or Category | Name | Source | Last date verified |
@@ -116,8 +116,6 @@ Secureworks uses elements names
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-
 
 
 # Trend Micro
