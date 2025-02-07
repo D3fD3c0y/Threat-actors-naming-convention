@@ -7,6 +7,7 @@ Naming convention used by security vendors for Threat Actor groups
 - [Palo Alto](#Palo-Alto)
 - [Mandiant/Google Threat Intelligence](#Mandiant/Google-Threat-Intelligence)
 - [Secureworks](#Secureworks)
+- [Trend Micro](#Trend-Micro)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -111,6 +112,22 @@ Secureworks uses elements names
 | South Korea | Tungsten | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
 | USA | Platinum | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
 | Vietnam | Tin | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+# Trend Micro
+Trend Micro uses the 4 elements names
+| Nation-State or Category | Name | Source | Last date verified |
+| ------------------------ | ---- | ------| ------------------ |
+| Cybercrime | Water | https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=810474396#gid=810474396 | 2025-01-30 |
+| Hacktivist | Wind | https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=810474396#gid=810474396 | 2025-01-30 |
+| Espionnage | Earth | https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=810474396#gid=810474396 | 2025-01-30 |
+| Damage/Destruction | Fire | https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=810474396#gid=810474396 | 2025-01-30 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
